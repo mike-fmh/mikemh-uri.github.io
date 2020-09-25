@@ -9,9 +9,9 @@ body {
 }
  a {
    font-family: sans-serif;
-   color: white;
+   color: #dbdad7;
    text-decoration: none;
 }
 a:hover {
-   text-decoration: underline;
+   color: white;
 }
